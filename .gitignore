@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment directories
+env/
+venv/
+
+# Ignore any system-specific files (optional)
+.DS_Store
+
+#Ignore dataset files
+Training_Dataset.arff
+Training_Dataset_CSV.csv
+
+# Ignore .idea
+.idea/
