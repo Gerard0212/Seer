@@ -12,8 +12,8 @@ This repository contains the training and evaluation code for a phishing detecti
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
-   cd phishing-detector
+   git clone https://github.com/Gerard0212/Seer.git
+   cd Seer
    ```
 
 2. **Create and Activate a Virtual Environment**
